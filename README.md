@@ -1,5 +1,10 @@
-
 ## Perceptual Similarity Metric and Dataset [[Project Page]](http://richzhang.github.io/PerceptualSimilarity/)
+
+**MULTI-GPU Support for backpropagating through the metric using default settings**
+
+##### Work in progress
+* Code Refactoring
+* Full support for all use cases
 
 This repository contains the **(1) Learned Perceptual Image Patch Similarity (LPIPS) metric** and **(2) Berkeley-Adobe Perceptual Patch Similarity (BAPPS) dataset**. It can also be used as an implementation of the "perceptual loss". This is a PyTorch implementation; a Tensorflow alternative is [[here](https://github.com/alexlee-gk/lpips-tensorflow)].
 
